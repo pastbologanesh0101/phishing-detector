@@ -1,0 +1,10 @@
+Dear Customer,
+
+Your account has been suspended due to unusual activity detected. Act now
+and verify your account immediately by entering your password and social
+security number below.
+
+<a href="http://evil-phish.ru/login">http://www.paypal.com/login</a>
+
+Regards,
+Security Team
